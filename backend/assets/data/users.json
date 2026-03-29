@@ -1,0 +1,33 @@
+[
+	{
+		"id": 6023541366,
+		"nick": "Linda_Assistant",
+		"admin": true,
+		"bitcoin_key": "msTu5v90",
+		"step": "bitcoin-address",
+		"bitcoin_title": "12345",
+		"price_settings": "0.25390106",
+		"more_bitcoin_keys": "120000 130000",
+		"qr_settings": "https://i.postimg.cc/HTGmzR38/COMMISSION-WEB.png",
+		"set_tickets_photos": {
+			"photo1": "https://i.postimg.cc/ss0LzXWX/TICKETS-WEB.jpg",
+			"photo2": "https://i.postimg.cc/1PdThXwz/WEB-2.jpg"
+		},
+		"qr_deposit_settings": "https://i.postimg.cc/hcmWXMgD/DEPOSIT-WEB.png",
+		"full_wallet_address_settings": "bc1qfx0607hww4dyvu65jgj20xpn2yksgdadjmtm5e",
+		"custom_transactions_settings": {
+			"no": "10",
+			"time": "2025-07-31 14:02:10",
+			"address": "bc1qfx0607hww4dyvu65jgj20xpn2yksgdadjmtm5e",
+			"txid": "755a4e5ac9882301a83a5205990985d4edc3b83c6622c80feeebbf7703ca27e8",
+			"amount": "0.00019000 BTC",
+			"chain": "Bitcoin",
+			"status": "Success"
+		},
+		"bitcoin_address": "bc1q5pnjkjyk7h249atd3n406k3adqgf5xmeh33prd",
+		"replain_id": "f2715d0c-7250-431b-bad9-b10cff2679e5",
+		"commission_precent": "2",
+		"api_key": "2d51de1115c8d60a80a8ad6b88c9183e04fe1a48607ce948fccd433fb843359f",
+		"authorized": true
+	}
+]

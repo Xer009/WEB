@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .table-container {
+            width: 90%;
+            max-width: 800px;
+            overflow-x: auto;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+            white-space: nowrap;
+        }
+
+        th {
+            background-color: #f9f9f9;
+        }
+
+        .icon-text {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+        }
+
+        .copy-icon {
+            cursor: pointer;
+            margin-left: 4px;
+        }
+
+
+        .copy-icon > img {
+            width: 25px;
+            height: 25px;
+            vertical-align: middle;
+        }
+
+        .search-icon > img {
+            width: 25px;
+            height: 25px;
+            vertical-align: middle;
+        }
+
+        .success {
+            color: green;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+
+        .tooltip .tooltip-text {
+            visibility: hidden;
+            width: auto;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .tooltip:hover .tooltip-text {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Time</th>
+                    <th>Address</th>
+                    <th>TXID</th>
+                    <th>Amount</th>
+                    <th>Chain</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody id="transaction-table-body"></tbody>
+        </table>
+    </div>
+
+    <script>
+        const data = [
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+            { no: 1, time: "2024-09-09 17:31:42", address: "1Ddmj8uj3H4oa9bmHjvfr56g6skUik", txid: "5d92bd39a51239183213289132198321983219832983298123", amount: "0.01236523 BTC", chain: "Bitcoin", status: "Success" },
+        ];
+
+        const tableBody = document.getElementById('transaction-table-body');
+
+        data.forEach(row => {
+            const tr = document.createElement('tr');
+
+            Object.keys(row).forEach((key) => {
+                const td = document.createElement('td');
+                if (key === 'address') {
+                    const fullAddress = row[key];
+                    const displayedAddress = fullAddress.length > 18 ? `${fullAddress.slice(0, 6)}****${fullAddress.slice(-6)}` : fullAddress;
+                    td.innerHTML = `
+                        <span class="icon-text tooltip">
+                            ${displayedAddress}
+                            <span class="copy-icon" onclick="copyToClipboard('${fullAddress}')">
+                                <img src="img/copy.png" alt="copy" />
+                            </span>
+                            <span class="tooltip-text">${fullAddress}</span>
+                        </span>`;
+                } else if (key === 'txid') {
+                    const fullTxid = row[key];
+                    const displayedTxid = fullTxid.length > 18 ? `${fullTxid.slice(0, 6)}****${fullTxid.slice(-6)}` : fullTxid;
+                    td.innerHTML = `
+                        <span class="icon-text tooltip">
+                            ${displayedTxid}
+                            <span class="copy-icon" onclick="copyToClipboard('${fullTxid}')">
+                                <img src="img/copy.png" alt="copy" />
+                            </span>
+                            <a class="search-icon" href="https://www.blockchain.com/explorer/addresses/btc/${fullTxid}">
+                                <img src="img/search.png" alt="search" />
+                            </a>
+                            <span class="tooltip-text">${fullTxid}</span>
+                        </span>`;
+                } else if (key === 'chain') {
+                    td.innerHTML = `<span class="bold">${row[key]}</span>`;
+                } else if (key === 'status') {
+                    td.innerHTML = `<span class="${row[key].toLowerCase()}">${row[key]}</span>`;
+                } else {
+                    td.innerHTML = `<span>${row[key]}</span>`;
+                }
+                tr.appendChild(td);
+            });
+
+            tableBody.appendChild(tr);
+        });
+
+
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert("Address copied to clipboard!");
+            }).catch(err => {
+                console.error("Error copying text: ", err);
+            });
+        }
+    </script>
+</body>
+
+</html>

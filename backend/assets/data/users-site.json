@@ -1,0 +1,1782 @@
+[
+	{
+		"id": 0,
+		"product_sub": "20030107",
+		"time": "2025-09-18T09:03:08.866Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+		"sunset": 0,
+		"step": 0,
+		"userLocation": {
+			"ip": "34.76.89.250",
+			"country": "BE",
+			"region": "Brussels Capital",
+			"flag": "🇧🇪"
+		}
+	},
+	{
+		"id": 1,
+		"product_sub": "20030107",
+		"time": "2025-09-18T09:39:34.936Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 4,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 2,
+		"product_sub": "20030107",
+		"time": "2025-09-18T09:39:43.161Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 3,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 3,
+		"product_sub": "20030107",
+		"time": "2025-09-18T09:43:24.303Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+		"sunset": 1,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 4,
+		"product_sub": "20030107",
+		"time": "2025-09-18T09:56:39.748Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 3,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 5,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:12:17.959Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 3,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 6,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:12:58.971Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 2,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 7,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:16:19.582Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 2,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 8,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:22:12.655Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 2,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 9,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:22:24.881Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 1,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 10,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:29:53.503Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 63,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 10,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:29:55.295Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 62,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 10,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:29:55.295Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 61,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 13,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:15.258Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 60,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 14,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:18.860Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 59,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 14,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:18.860Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 58,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 16,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:31.708Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 57,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 14,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:18.860Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 56,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 16,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:31.765Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 55,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 16,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:32.078Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 54,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 20,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:39.278Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 53,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 20,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:39.040Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 52,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 20,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:39.866Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 51,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 20,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:30:39.278Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 50,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 24,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:02.320Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 49,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 24,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:02.775Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 48,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 24,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:02.935Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 47,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 27,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:37.759Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 46,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 28,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:40.560Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 45,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 28,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:40.794Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 44,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 30,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:44.560Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 43,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 31,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:46.251Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 42,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 28,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:40.794Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 41,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 28,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:40.794Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 40,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 28,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:31:40.794Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 39,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 35,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:10.689Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 38,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 36,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:14.221Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 37,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 37,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:22.825Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 36,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 37,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:25.411Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 35,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 39,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:37.616Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 34,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 39,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:32:37.616Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 33,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 41,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:06.204Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 33,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 41,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:07.007Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 32,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 43,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:12.460Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 31,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 41,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:07.007Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 30,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 45,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:19.008Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 29,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 46,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:21.670Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 28,
+		"step": 0,
+		"userLocation": {
+			"ip": "176.113.177.74",
+			"country": "RO",
+			"region": "București",
+			"flag": "🇷🇴"
+		}
+	},
+	{
+		"id": 46,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:22.176Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 27,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 41,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:07.007Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 26,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 41,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:33:07.007Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 25,
+		"step": 0,
+		"userLocation": {
+			"ip": "73.131.88.18",
+			"country": "US",
+			"region": "South Carolina",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 50,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:35:34.789Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 24,
+		"step": 0,
+		"userLocation": {
+			"ip": "102.177.191.220",
+			"country": "ES",
+			"region": "Madrid",
+			"flag": "🇪🇸"
+		}
+	},
+	{
+		"id": 51,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:36:42.443Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 24,
+		"step": 0,
+		"userLocation": {
+			"ip": "155.254.40.56",
+			"country": "NL",
+			"region": "North Holland",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 52,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:43:15.018Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 1,
+		"step": 0
+	},
+	{
+		"id": 53,
+		"product_sub": "20030107",
+		"time": "2025-09-18T10:43:40.274Z",
+		"platform": "Win32",
+		"langues": [
+			"en-GB"
+		],
+		"userAgent": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeWin32Gecko5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+		"sunset": 0,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.214.74.7",
+			"country": "NL",
+			"region": "Limburg",
+			"flag": "🇳🇱"
+		}
+	},
+	{
+		"id": 54,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:11.103Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 24,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 55,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:12.617Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 23,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 56,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:17.479Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 11,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 57,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:18.075Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 10,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 57,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:18.076Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 9,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 57,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:17.907Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 22,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 57,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:18.093Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 21,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 59,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:19.496Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 20,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 55,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:12.617Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 19,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 63,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:27.331Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 18,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 55,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:12.617Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 17,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 65,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:36.068Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 16,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 66,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:47.662Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 8,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 66,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:48.016Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 7,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 66,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:48.034Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 6,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 69,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:27:58.831Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 15,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 70,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:00.532Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 14,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 71,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:11.202Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 13,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 72,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:15.702Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 12,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 72,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:17.587Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 5,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 72,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:17.568Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 4,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 75,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:19.102Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 11,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 75,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:19.672Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 10,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 77,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:20.909Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 9,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 77,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:20.909Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 8,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 77,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:20.909Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 7,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 80,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:43.091Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 6,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 81,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:44.869Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 5,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 82,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:47.094Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 3,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 82,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:47.139Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 2,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 84,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:52.473Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 4,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 85,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:28:55.201Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+		"sunset": 1,
+		"step": 0,
+		"userLocation": {
+			"ip": "103.4.250.159",
+			"country": "US",
+			"region": "New York",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 86,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:29:00.414Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 3,
+		"step": 0,
+		"userLocation": {
+			"ip": "185.25.111.44",
+			"country": "PL",
+			"region": "Warmia-Masuria",
+			"flag": "🇵🇱"
+		}
+	},
+	{
+		"id": 87,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:29:14.180Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 2,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 87,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:29:14.180Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 1,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	},
+	{
+		"id": 87,
+		"product_sub": "20030107",
+		"time": "2025-10-09T06:29:14.180Z",
+		"platform": "Linux x86_64",
+		"langues": [
+			"en-US",
+			"en"
+		],
+		"userAgent": "5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sicret": "20030107Google Inc.NetscapeLinux x86_64Gecko5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+		"sunset": 0,
+		"step": 0,
+		"userLocation": {
+			"ip": "76.34.226.184",
+			"country": "US",
+			"region": "Ohio",
+			"flag": "🇺🇸"
+		}
+	}
+]
